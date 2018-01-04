@@ -1,2 +1,2 @@
 # redux-state-commit
-Defer state save
+Batch actions and defer state save
